@@ -1,4 +1,5 @@
 # Raiz_insirida_&_printada_.
+#Raiz da área do triângulo Retângulo sem Inteligência Para Catetária.
 print("Calculadora")
 print("Adição")
 import math
