@@ -1,4 +1,5 @@
 # Raiz_printada.
+print("Raiz de um Número")
 import math
 xi = int(input("Insira O Dado:"))
 s = xi**(1/2)
