@@ -1,4 +1,4 @@
-# Raiz_printada.
+# Raiz_insirida_&_printada.
 print("Raiz de um Número")
 import math
 xi = int(input("Insira O Dado:"))
