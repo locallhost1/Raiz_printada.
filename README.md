@@ -33,6 +33,7 @@ s = n ** 2 or n1 ** 2
 print('solução',s)
 import math
 #Outra maneira de potenciação 
+print("Outra Maneira de Potenciação")
 print("Potênciação")
 base = input('Base: ')
 expoente = input('Expoente: ')
