@@ -34,6 +34,9 @@ print('solução',s)
 import math
 #Outra maneira de potenciação 
 print("Outra Maneira de Potenciação")
+print("Trabalho com Potências em Python: Algo feito Não só para Programadores. Comparados como:
+Ciêntista da Computação ou Ciêntistas de dados; ou
+engeinheiros de Software: é sim Também para Quem sabe Printar Resultados após: debugger.,[...")
 print("Potênciação")
 base = input('Base: ')
 expoente = input('Expoente: ')
